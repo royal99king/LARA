@@ -1,0 +1,10 @@
+============At commands============
+Before we go make sure your Baud rate is 115200.
+
+AT												  // Test if AT system works correctly
+AT+CWMODE=3											  // AP + Station mode
+AT+CWLAP											  // List AP in range
+AT+CWJAP="your Wifi ap (name) inside quotes","password inside quotes"                             // join AP
+
+
+After connecing to your wifi flash Main.ino and configure thingspeak accorging to your requirements.
