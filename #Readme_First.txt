@@ -4,6 +4,7 @@
 3.Ulrasonic Sensor HC-SR04.
 4.Esp8266 Wifi Module.
 5.BreadBoard (not necessary).
+6.Thingspeak account.
 
 ============HOW  TO  START============
 1. Make Circuit as given in photo.
