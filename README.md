@@ -5,4 +5,4 @@ Natural disasters are coming day by day and in India we are not have effective t
 
 Project is on thingspeak.
 
-Get started with #read_me.
+Get started with #readme_first.
