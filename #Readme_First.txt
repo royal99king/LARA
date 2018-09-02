@@ -12,6 +12,7 @@
 3. Configure Esp8266 see at_commands.txt
 4. Flash Main.ino to you ardunio. Before flashing enter your API of thingspeak.
 5. Configure your thingspeak. 
+6. You can add your twitter account to gets live tweets.
 
 Field1 is level. 
 Field2 is rate.
