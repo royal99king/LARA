@@ -1,3 +1,5 @@
+FOR Thingspeak
+
 ============Requirements============
 1.Arduino Uno R3.
 2.Jumper Wires.
@@ -16,3 +18,7 @@
 
 Field1 is level. 
 Field2 is rate.
+
+
+FOR IBM BLUEMIX
+
