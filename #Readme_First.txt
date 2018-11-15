@@ -21,4 +21,4 @@ Field2 is rate.
 
 
 FOR IBM BLUEMIX
-
+go through wifiPlayload.ino
