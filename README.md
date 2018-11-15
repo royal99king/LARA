@@ -10,10 +10,15 @@ FOR Thingspeak
 ============Requirements============
 
 1.Arduino Uno R3.
+
 2.Jumper Wires.
+
 3.Ulrasonic Sensor HC-SR04.
+
 4.Esp8266 Wifi Module.
+
 5.BreadBoard (not necessary).
+
 6.Thingspeak account/IBM Cloud account.
 
 ============THINGSPEAK============
@@ -28,8 +33,11 @@ Field1 is level.
 Field2 is rate.
 
 =======================IBM BLUEMIX====================
+
 Start iot service from catalog.
+
 Register your device then you will get your auth-token and other information.
+
 Add your credentials in wifiPlayload.ino and setup dashboard to see your data.
 
 Note:
