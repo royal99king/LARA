@@ -7,4 +7,4 @@ AT+CWLAP											  // List AP in range
 AT+CWJAP="your Wifi ap (name) inside quotes","password inside quotes"                             // join AP
 
 
-After connecing to your wifi flash Main.ino and configure thingspeak accorging to your requirements.
+After connecing to your wifi flash Main.ino and configure thingspeak according to your requirements.
