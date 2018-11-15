@@ -17,7 +17,7 @@ FOR Thingspeak
 
 4.Esp8266 Wifi Module.
 
-5.BreadBoard (not necessary).
+5.BreadBoard.
 
 6.Thingspeak account/IBM Cloud account.
 
@@ -30,6 +30,7 @@ FOR Thingspeak
 6. You can add your twitter account to gets live tweets.
 
 Field1 is level. 
+
 Field2 is rate.
 
 =======================IBM BLUEMIX====================
