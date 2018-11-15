@@ -5,7 +5,6 @@ Natural disasters are coming day by day and in India we are not have effective t
 
 Project is on thingspeak and ibm cloud.
 
-FOR Thingspeak
 
 ============Requirements============
 
