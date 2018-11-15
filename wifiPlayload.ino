@@ -9,7 +9,7 @@
 #define ORG "4d5lp6"
 #define DEVICE_TYPE "Arduino"
 #define DEVICE_ID "DIGIBLOCK"
-#define TOKEN "?M&(IoF&6ZgCAkBG*G"
+#define TOKEN "tokken"
 #define WIFI_AP "Brogrammer"
 #define WIFI_PASSWORD "11111111"
          
